@@ -1,4 +1,4 @@
-package com.example.websocketdemo;
+package com.example.websocketdemo.domain;
 
 public class Greeting {
     private String content;

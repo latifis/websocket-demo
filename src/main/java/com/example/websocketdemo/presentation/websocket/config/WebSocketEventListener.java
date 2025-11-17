@@ -1,5 +1,7 @@
-package com.example.websocketdemo;
+package com.example.websocketdemo.presentation.websocket.config;
 
+import com.example.websocketdemo.domain.ChatMessage;
+import com.example.websocketdemo.domain.MessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
